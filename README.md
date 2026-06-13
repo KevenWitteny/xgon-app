@@ -19,3 +19,7 @@ Sistema de gestão condominial desenvolvido com Flutter e Firebase.
 - Controle financeiro
 - Upload de documentos
 - Assistente virtual Axia
+
+## Autor
+
+Keven Witteny
